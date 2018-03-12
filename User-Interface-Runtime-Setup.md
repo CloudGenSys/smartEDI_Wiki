@@ -16,8 +16,8 @@ The Steps below help with the Composite Application Framework runtime setup
 
 6.	Fill in the Highlighted Fields
 
-*        Username and Password --> The Login for an Integration Server Administrator or a service account
-* 	 Enterprise Name --> Name of the Enterprise in "Trading Networks" context. This should be the name of the Corporation
+*          Username and Password --> The Login for an Integration Server Administrator or a service account
+*          Enterprise Name --> Name of the Enterprise in "Trading Networks" context. This should be the name of the Corporation
 *          Enterprise Short Name (If Applicable)
 *          ProfileVar (The Client reference to their Partners) --> Ex: Partners
 *          ProfileVar2 (The Client reference to their internal systems) --> Ex: Division, Org, Org1
