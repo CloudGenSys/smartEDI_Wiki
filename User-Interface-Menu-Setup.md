@@ -21,3 +21,15 @@
 
 10. "Check View as an Expert", select Properties and go to layout option. Choose "one column" and "Click Ok".
 [[/Images/Picture15.png|ALT TEXT]]
+
+11.	On the left "Tools" navigation menu, drag the "Inbound EDI Step 1" Portlet under project "SmarEDIPrj" into to canvas on the right.
+
+12.	Select the Properties of the "Inbound EDI Step" and uncheck "Title Bar" and "Border" and click Apply.
+[[/Images/Picture16.png|ALT TEXT]]
+
+13.	Save the changes now for the page "Inbound EDI Setup". The target page should look like shown below.
+[[/Images/Picture17.png|ALT TEXT]]
+
+14.	Add another page under "EDI Interfaces" called "Outbound EDI Setup". Repeat steps 9 through 11 but this time drag "Outbound EDI Step 1" Portlet from the SmartEDIPrj. Repeat steps 12 through 13. The target page should look like shown below.
+[[/Images/Picture18.png|ALT TEXT]]
+
