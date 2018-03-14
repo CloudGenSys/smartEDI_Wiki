@@ -1,14 +1,20 @@
 Welcome to the SmartEDI wiki!
 
 
-# My menu
+# SmartEDI Closet
 * [Home][home]
 * [Technical documentation][First Time Setup]
-* [User manual][usermanual]
+* [Integration Server Setup][Integration Server Setup]
+* [Trading Networks Server Setup]
+*
+*
+*
+*
 
-[home]: https://github.com/myproject/wiki/Home
+[home]: https://github.com/CloudGenSys/SmartEDI/wiki/Home
 [First Time Setup]: https://github.com/CloudGenSys/SmartEDI/wiki/First-Time-Setup
-[usermanual]: https://github.com/myproject/wiki/User-manual
+[Integration Server Setup]: https://github.com/CloudGenSys/SmartEDI/wiki/Integration-Server-Setup
+
 
 Assets
 
