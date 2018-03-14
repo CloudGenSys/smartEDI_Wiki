@@ -1,5 +1,4 @@
-[[/Images/SmartEDI-Logo.jpg|ALT TEXT]](https://github.com/CloudGenSys/SmartEDI/wiki/images/SmartEDI-Logo.jpg)(https://cloudgensys.com/product-smart-edi.shtml)
-
+[[/Images/SmartEDI-Logo.jpg|ALT TEXT]]
   * [Home](https://github.com/CloudGenSys/SmartEDI/wiki/Home)
   * [First Time Setup](https://github.com/CloudGenSys/SmartEDI/wiki/First-Time-Setup)
   * [User Interface Menu Setup](https://github.com/CloudGenSys/SmartEDI/wiki/User-Interface-Menu-Setup)
