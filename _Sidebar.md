@@ -1,5 +1,4 @@
-[![npm module\](https://github.com/CloudGenSys/SmartEDI/wiki/images/SmartEDI-Logo.jpg)](https://www.npmjs.com/package/github-wiki-sidebar)
-
+[[/Images/SmartEDI-Logo.jpg|ALT TEXT]]
   * [Home](https://github.com/CloudGenSys/SmartEDI/wiki/Home)
   * [First Time Setup](https://github.com/CloudGenSys/SmartEDI/wiki/First-Time-Setup)
   * [User Interface Menu Setup](https://github.com/CloudGenSys/SmartEDI/wiki/User-Interface-Menu-Setup)
