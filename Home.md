@@ -1,5 +1,15 @@
 Welcome to the SmartEDI wiki!
 
+
+# My menu
+* [Home][home]
+* [Technical documentation][First Time Setup]
+* [User manual][usermanual]
+
+[home]: https://github.com/myproject/wiki/Home
+[First Time Setup]: https://github.com/CloudGenSys/SmartEDI/wiki/First-Time-Setup
+[usermanual]: https://github.com/myproject/wiki/User-manual
+
 Assets
 
 SmartEDI
