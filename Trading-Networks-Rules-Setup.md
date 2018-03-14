@@ -25,8 +25,6 @@
 	"	Also "Change User Status" to DONE
 	"	Click "Save"
 	[[/Images/Picture35.png|ALT TEXT]]
- 
-Note: For InboundEDIDocuments, add all the appropriate EDI Documents in the Document Type Section
 
 	Rule Name (No .4): ProcessOutboundEDIEnvelp
 	"	Choose the Sender Partner Group as "EDIHUBDIVISION"
@@ -43,4 +41,4 @@ Note: For InboundEDIDocuments, add all the appropriate EDI Documents in the Docu
 	6.	Click "Save"
 	[/Images/Picture37.png|ALT TEXT]]
  
-
+Note: For InboundEDIDocuments, add all the appropriate EDI Documents in the Document Type Section
