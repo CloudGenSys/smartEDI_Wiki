@@ -31,14 +31,14 @@
 	"	Receiver Partner Group as "EDIHUBPARTNERS" and Select "X12 Envelope" in the DocumentType
 	"	Go To "Action" Tab and Add "Execute Service" and Select the service "SmartEDI.EDI.EDIEnvelp:EnterpriseEDIEnvelp" 
 	"	Also "Change User Status" to DONE.
-	"	Click "Save"
+	"	Click "Save".
 	[/Images/Picture36.png|ALT TEXT]]
 
 	Rule Name (No .5): ProcessOutboundEDIGroup
 	3.	Choose the Sender Partner Group as "EDIHUBDIVISION"
 	4.	Receiver Partner Group as "EDIHUBPARTNERS" and Select "X12 Envelope" in the DocumentType
 	5.	Go To "Action" Tab and Add "Change Users status" to "DONE"
-	6.	Click "Save"
+	6.	Click "Save".
 	[/Images/Picture37.png|ALT TEXT]]
  
 Note: For InboundEDIDocuments, add all the appropriate EDI Documents in the Document Type Section
