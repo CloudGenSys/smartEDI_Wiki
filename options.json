@@ -1,0 +1,27 @@
+{
+  "menu": {
+    "item": "{{#levelRepeat}}  {{/levelRepeat}}* [{{{title}}}]({{{link}}})\n",
+    "category": "{{#levelRepeat}}  {{/levelRepeat}}* {{#link}}[{{{title}}}]({{{link}}}){{/link}}{{^link}}{{{title}}}{{/link}}\n{{{subitems}}}",
+    "category-1": "[![npm module\\](https://github.com/CloudGenSys/SmartEDI/wiki/images/SmartEDI-Logo.jpg)](https://www.npmjs.com/package/github-wiki-sidebar)\n\n{{{subitems}}}\n"
+  },
+  "rules": {
+    "order": [
+      "Home.md",
+      "First-Time-Setup.md",
+      "User-Interface-Menu-Setup.md",
+      "User-Interface-Permissions-Setup.md",
+      "User-Interface-Rules-Setup.md",
+      "User-Interface-Runtime-Setup.md",
+      "Integration-Server-Setup.md",
+      "Trading-Networks-Partner-Setup.md",
+      "Trading-Networks-Rules-Setup.md",
+      "Trading-Networks-Validations.md",
+      "Deployment-Process.md"
+    ]
+  },
+  "separator": ":-",
+  "linkTemplate": "https://github.com/CloudGenSys/SmartEDI/wiki/%s",
+  "menuFile": "_Sidebar.md",
+  "multilang": false,
+  "menuOnly": true
+}
