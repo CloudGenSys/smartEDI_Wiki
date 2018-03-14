@@ -1,25 +1,20 @@
+
+
 Welcome to the SmartEDI wiki!
 
 
-# SmartEDI Closet
-* [Home][home]
-* [Technical documentation][First Time Setup]
-* [Integration Server Setup][Integration Server Setup]
-* [Trading Networks Server Setup]
-*
-*
-*
-*
+Capabilities
 
-[home]: https://github.com/CloudGenSys/SmartEDI/wiki/Home
-[First Time Setup]: https://github.com/CloudGenSys/SmartEDI/wiki/First-Time-Setup
-[Integration Server Setup]: https://github.com/CloudGenSys/SmartEDI/wiki/Integration-Server-Setup
+Browser Interface and Wizard - Reduce implementation time by simplifying setup tasks and enhancing ease of use.
 
+Simple Mapping - Enables you to deal with more complex mapping requirements,concept of ANY-2-ANY mapping, and leveraging existing map services.
 
-Assets
+Proactive Alerts -  SmartEDI framework can alert on compliance failure, FA(Acknowledgement) delays.
 
-SmartEDI
-	This Package includes the runtime and design time bundles for the Smart EDI Module.
+Development Task Automation - Enables you to setup folder structure and best practices right from SmartEDI Framework.
 
-SmartEDIWSD
-	This Package includes the webServices module that is required for the UI Pages.
+Smarter EDI Framework - Enable you to leverage webMethods out of box EDI capabilies.
+
+Smarter – Create single partner mapping or re-use them for multiple partners.
+
+Leverage existing maps - Existing service maps can be reused.
